@@ -11,4 +11,7 @@ To run the sub app, stay in the root directory and run `ng serve sub-app1` or `n
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
+## TL;DR
 
+* `npm uninstall node-sass`
+* `npm install sass`
